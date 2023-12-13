@@ -1,0 +1,3 @@
+# React Router V5 Starter
+
+Hello everyone! Here is a demo repo that has all the main things we need from React Router. We say "V5" because technically React Router has a V6 with all different syntax. However, V5's syntax is simpler and all we really need. Please feel free to copy code from this repo into your projects. Don't forget to add `BrowserRouter` to your `main.jsx` before adding your `Routes` to `app.jsx`.
